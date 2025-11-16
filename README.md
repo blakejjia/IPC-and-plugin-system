@@ -1,5 +1,7 @@
 # VS Code 插件架构模拟
 
+一个小白也能看懂的插件通信 repository！
+
 一个使用 TypeScript 和 Node.js 实现的 VS Code 插件系统模拟，展示了进程隔离、IPC 通信和 API 代理等核心概念。
 
 ## 🎯 项目目的
